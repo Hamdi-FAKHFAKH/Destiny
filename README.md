@@ -1,4 +1,4 @@
-# destiny
+# Destiny
 ![icons8-dratini-100](https://user-images.githubusercontent.com/98355331/198847296-6540f6e7-e9af-4b17-ab39-901d43f1fda1.png)
 
 ## Getting Started
